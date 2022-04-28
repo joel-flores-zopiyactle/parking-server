@@ -17,6 +17,12 @@ o
 ```bash
     node app.js
 ```
+
+## Ejecutar tests
+
+```bash
+    npm run test
+```
 Todos los datos que procesa la aplicación son almacenados en una archivo .JSON para poder persistir los datos.El archivo se llama parkingDB.json
 
 ## Endpoints que expone la aplicación.
